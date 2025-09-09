@@ -1,4 +1,4 @@
-![huggingface-color](https://github.com/user-attachments/assets/a3405cc6-159b-45b2-b280-f181b60bf203)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is WONG MING HAI / Oscar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is WONG MING HAI / Oscar
 ======================================================================================================================================
 
 Senior .Net /Microservices / AI Engineer
